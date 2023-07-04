@@ -19,7 +19,7 @@
 
 # Descrição
 
-## Desafio 1 - Criando um sistema bancário
+## Desafio 1 - Criando um sistema bancário 
 
 **Objetivo Geral:**
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
@@ -42,6 +42,10 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 ## Desafio 2 - Otimizando o sistema bancário com funções Python
 
 O desafio consiste em usar o primeiro desafio como base mas usando funções (eu adicionei classes) e adição de métodos de filtragem por conta, listagem de contas, criação de conta, registro de usuário e escolha para qual conta será o deposito, o saque e o extrato.
+
+## Arquivos
+desafio_simples_sistema_bancario.py - Arquivo referente ao desafio 1 <br>
+desafio_simples_avancado_bancario.py - Arquivo referente ao desafio 2
 
 ---
 # Contatos
